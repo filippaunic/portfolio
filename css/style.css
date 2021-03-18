@@ -1,0 +1,99 @@
+@charset "utf-8";
+
+      /* =================== BG Video =================== */ 
+
+
+.bg-section{
+	position: static;
+	height: 100vh;
+}
+
+.bg-video{
+	display: flex;
+	position: relative;
+	overflow: hidden;
+	width: auto;
+	height: 100%;
+	align-content: center;
+	justify-content: center;
+
+}
+
+.video{
+	position: relative;
+	z-index: -1;
+	
+}
+
+.bg-logo{
+	position: absolute;
+	padding-top: 20%;
+	padding-left: 30px;
+	padding-right: 30px;
+	
+}
+
+.bg-text{
+	text-align: center;
+	color: #FFFFFF;
+	padding-top: 50px;
+	
+}
+
+.profession{
+	padding-top: 20px;
+}
+      /* =================== End BG Video =================== */ 
+      
+      /* =================== Header =================== */ 
+
+.header-bar{
+	
+}
+
+.logo-nav > img {
+	width: auto;
+	height: 10vh;
+	padding-top: 20px;
+	padding-bottom: 5px;
+	
+	
+}
+
+      /* =================== End Header =================== */ 
+	  
+      /* =================== Main =================== */ 
+
+.preview{
+	height: 90vh;
+	position: static;
+	
+}
+
+.carousel-inner{
+	width: auto;
+	height: 20vh;
+	display: flex;
+	justify-content: center;
+	
+}
+
+.carousel-item > img{
+	height: 15vh;
+	padding-top: 20px;
+}
+
+.object{
+	height: 70vh;
+}
+
+
+
+	  /* =================== End Main =================== */
+
+
+
+
+
+
+
